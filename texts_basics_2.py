@@ -87,6 +87,7 @@ firstName = "SangDoo"
 
 lastName = "Nam"
 
+print(f"{firstName= }\n{lastName= }".replace('=', ':').replace("'", ''))
 print(f"Firstname: {firstName}\nLastname: {lastName}")
 
 
